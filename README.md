@@ -131,7 +131,7 @@ Reduction: **74%** while improving consistency and documentation.
 
 ## Why I built it
 
-The goal was not to replace myself, but to remove repetitive work so I could spend more time making editorial decisions.
+The goal was not to replace me, but to remove repetitive work so I could spend more time making editorial decisions.
 
 The workflow automates execution while humans still own judgment.
 
@@ -139,10 +139,7 @@ The workflow automates execution while humans still own judgment.
 
 # Screenshots
 
-Include screenshots of:
-
 * Upload screen
-* Processing screen
 * Results dashboard
 * Changed lines
 * Audit report
