@@ -1,0 +1,452 @@
+PROOFREADING REPORT
+File: Olusola jegede.srt
+Dialect: American English
+Total subtitle lines: 315
+Lines changed: 107
+
+NAMES / ORGANIZATIONS TO VERIFY:
+- Olushola Jagede
+- ICASA — verify: acronym may refer to a different organization in this context (e.g. an accountancy body in Sierra Leone) rather than the South African telecommunications regulator
+- iCastle
+- Item 24: 'I claw for them' is likely a speech-recognition error — corrected to 'I call for them', but the intended phrase should be verified against the audio
+- Item 35: 'readable' changed to 'reliable' — please verify original audio, as 'readable' may be correct in context
+- Items 81–84 appear to be mid-sentence fragments that may contain a speech-recognition split error; the phrase 'badly to passive voice and well / to direct this' and 'it does not know that the regulation is just / is just cited' should be reviewed against the original audio to confirm correct wording and line breaks
+- Item 93: original text 'but that's everything does not know so what is one data' is likely a speech-recognition error and meaning is unclear — please verify against audio
+- Items 112–114 contain fragmented or unclear phrasing that may reflect speech-recognition errors — context needed to verify intended meaning.
+- I Castle (venue name — verify correct spelling)
+- Item 155 — 'but be after strategies' is likely a speech-recognition error; 'must be after strategies' is a best guess but the meaning remains unclear and may need speaker verification
+- Item 157 — 'across the means' may be a mishearing of 'across the silos,' 'across domains,' or similar; flagged for speaker verification
+- 162: duplicate word 'cannot cannot' removed — verify surrounding context for intended meaning
+- 163–170: several phrases appear to be speech-recognition errors ('this integrator', 'across the means', 'relationship between feels and produce synthesis', 'the Baba of all of them', 'architect of valor/values') — original wording preserved pending speaker verification
+- Freetown Angel — unclear; may be a proper name, organization, or speech-recognition error for a person or institution name
+- 263: 'when you lose that's your local knowledge' appears to be a speech-recognition error — likely 'when you lose that local knowledge' or similar — but meaning is unclear enough to flag rather than correct
+
+CHANGED LINES:
+#1 00:00:01,600 --> 00:00:04,500
+- my name is Olushola Jagede
++ My name is Olushola Jagede
+
+#5 00:00:12,433 --> 00:00:15,333
+- a fellow of the Institute of Chartered Accountants
++ a Fellow of the Institute of Chartered Accountants
+
+#8 00:00:20,966 --> 00:00:24,933
+- I presented to Icasa members in Freetown
++ I presented to ICASA members in Freetown
+
+#13 00:00:38,066 --> 00:00:44,466
+- I want to share the call of that argument with you now
++ I want to share the core of that argument with you now
+
+#14 00:00:44,666 --> 00:00:48,966
+- because I think it is most important thing
++ because I think it is the most important thing
+
+#18 00:00:59,433 --> 00:01:01,700
+- these are part of my observation
++ these are part of my observations
+
+#19 00:01:02,066 --> 00:01:04,500
+- I made to my colleagues at I Castle
++ I made to my colleagues at iCastle
+
+#22 00:01:13,366 --> 00:01:14,600
+- in lot of them
++ a lot of them
+
+#24 00:01:18,366 --> 00:01:21,200
+- with a friendlier interface and I claw for them
++ with a friendlier interface, and I call for them
+
+#25 00:01:22,600 --> 00:01:25,600
+- they type a question they read the answer
++ they type a question, they read the answer,
+
+#26 00:01:25,966 --> 00:01:29,066
+- they use it and they do not
++ they use it, and they do not —
+
+#27 00:01:29,233 --> 00:01:30,266
+- at times
++ at times —
+
+#33 00:01:51,600 --> 00:01:54,866
+- or that it is passing novelty
++ or that it is a passing novelty
+
+#35 00:01:58,466 --> 00:02:00,333
+- when it becomes more readable
++ when it becomes more reliable
+
+#37 00:02:04,166 --> 00:02:11,466
+- not a little by a gap that is widening every month
++ not a little — by a gap that is widening every month
+
+#38 00:02:12,600 --> 00:02:16,133
+- I'm not saying this to alarm you no
++ I'm not saying this to alarm you, no
+
+#52 00:02:57,633 --> 00:02:58,733
+- yes cold
++ yes, cold
+
+#54 00:03:00,066 --> 00:03:03,133
+- can data be cold or can it be warm
++ can data be cold, or can it be warm
+
+#55 00:03:03,900 --> 00:03:07,833
+- sure some data can be very cold and some can be warm
++ sure, some data can be very cold and some can be warm
+
+#58 00:03:13,833 --> 00:03:16,666
+- it is vast it is fast
++ it is vast, it is fast
+
+#59 00:03:17,033 --> 00:03:22,466
+- it is accurate at scale it has read more text
++ it is accurate at scale, it has read more text
+
+#60 00:03:22,500 --> 00:03:26,800
+- than any human being will read in hundred lifetime
++ than any human being will read in a hundred lifetimes
+
+#62 00:03:28,900 --> 00:03:31,866
+- what any human being will read a hundred lifetimes
++ what any human being will read in a hundred lifetimes
+
+#77 00:04:09,966 --> 00:04:11,766
+- or who is reading document
++ or who is reading the document
+
+#80 00:04:18,800 --> 00:04:22,633
+- it does not know that this particular director respond
++ it does not know that this particular director responds
+
+#83 00:04:28,366 --> 00:04:31,400
+- it does not know that the regulation is just
++ it does not know that the regulation it just
+
+#92 00:04:52,266 --> 00:04:55,366
+- have unlimited data unlimited information
++ have unlimited data, unlimited information
+
+#93 00:04:56,033 --> 00:04:59,300
+- but that's everything does not know so what is one data
++ but that AI everything does not know, so what is one data
+
+#111 00:05:51,266 --> 00:05:52,966
+- no they are not competing
++ No, they are not competing.
+
+#112 00:05:53,300 --> 00:05:56,166
+- they are complementary AI
++ They are complementary to AI.
+
+#113 00:05:56,166 --> 00:05:58,400
+- as is most powerful
++ As is most powerful,
+
+#114 00:05:58,500 --> 00:06:01,766
+- is cold data multiplied by warm data
++ is cold data multiplied by warm data.
+
+#115 00:06:02,000 --> 00:06:04,100
+- you want to have the best of AI
++ You want to have the best of AI.
+
+#116 00:06:04,100 --> 00:06:06,866
+- it is a combination of cold data
++ It is a combination of cold data
+
+#117 00:06:07,033 --> 00:06:12,333
+- multiplied by warm data the warmer the data you bring
++ multiplied by warm data. The warmer the data you bring,
+
+#118 00:06:12,500 --> 00:06:15,933
+- the more specific the more experience
++ the more specific, the more experience,
+
+#119 00:06:16,000 --> 00:06:17,800
+- the more professional deep
++ the more professional, the deeper,
+
+#120 00:06:17,900 --> 00:06:20,200
+- the better the Output
++ the better the output.
+
+#121 00:06:21,300 --> 00:06:24,633
+- Friends AI does not replace you
++ Friends, AI does not replace you
+
+#123 00:06:27,000 --> 00:06:28,866
+- yes I'm saying it again
++ Yes, I'm saying it again
+
+#124 00:06:28,900 --> 00:06:34,466
+- AI does not replace you it multiplies you
++ AI does not replace you, it multiplies you
+
+#128 00:06:45,433 --> 00:06:48,533
+- let me quickly walk you through them quickly
++ let me quickly walk you through them
+
+#130 00:06:52,200 --> 00:06:54,066
+- right now maybe stage one
++ right now — maybe stage one
+
+#153 00:07:55,166 --> 00:07:58,200
+- they use to advice the information they produce
++ they use to advise on the information they produce
+
+#154 00:07:58,200 --> 00:07:59,400
+- shape decision
++ shape decisions
+
+#155 00:08:00,200 --> 00:08:03,300
+- the strategies but be after strategies
++ the strategies must be after strategies
+
+#158 00:08:10,100 --> 00:08:12,866
+- sees relationship between fields
++ sees relationships between fields
+
+#159 00:08:13,233 --> 00:08:16,733
+- produce synthesis that neither AI
++ produces synthesis that neither AI
+
+#162 00:08:22,633 --> 00:08:24,233
+- a junior professional cannot cannot
++ a junior professional cannot
+
+#177 00:09:07,400 --> 00:09:08,700
+- the design approaches
++ they design approaches
+
+#180 00:09:16,033 --> 00:09:19,066
+- that outlast their individual presence
++ that outlasts their individual presence
+
+#182 00:09:20,666 --> 00:09:23,800
+- what they produce actually outlast them
++ what they produce actually outlasts them
+
+#184 00:09:30,500 --> 00:09:34,200
+- like I said I mentioned five stages
++ like I said, I mentioned five stages
+
+#185 00:09:34,200 --> 00:09:36,700
+- I say stage 1 the Record Keeper
++ I say stage 1, the Record Keeper
+
+#186 00:09:37,233 --> 00:09:39,400
+- stage 2 the Analyser
++ stage 2, the Analyser
+
+#187 00:09:39,633 --> 00:09:41,600
+- stage 3 the strategist
++ stage 3, the Strategist
+
+#188 00:09:41,800 --> 00:09:43,933
+- stage 4 the Integrator
++ stage 4, the Integrator
+
+#189 00:09:44,233 --> 00:09:45,466
+- Stage stage 5
++ stage 5
+
+#190 00:09:45,466 --> 00:09:47,400
+- the architect of values
++ the Architect of Values
+
+#192 00:09:50,466 --> 00:09:54,066
+- where you design system you design framework
++ where you design systems, you design frameworks
+
+#198 00:10:10,400 --> 00:10:12,666
+- the professionals at stage 1 and two
++ the professionals at stage 1 and 2
+
+#199 00:10:12,866 --> 00:10:15,500
+- that the record keeper and the analyzer
++ the Record keeper and the analyzer
+
+#201 00:10:19,166 --> 00:10:22,500
+- not because AI will take their jobs no
++ not because AI will take their jobs, no
+
+#205 00:10:33,633 --> 00:10:35,766
+- AI is not the one displacing you no
++ AI is not the one displacing you, no
+
+#206 00:10:35,900 --> 00:10:38,466
+- but AI is not taking your job also no
++ but AI is not taking your job also, no
+
+#210 00:10:48,466 --> 00:10:52,000
+- the professionals at Stage 3 and Stage 4 and stage 5
++ the professionals at Stage 3 and Stage 4 and Stage 5
+
+#215 00:11:06,566 --> 00:11:09,100
+- there's judgement there's synthesis
++ there's judgment, there's synthesis
+
+#216 00:11:09,166 --> 00:11:12,466
+- there's strategy and there's institutional wisdom
++ there's strategy, and there's institutional wisdom
+
+#217 00:11:13,566 --> 00:11:17,466
+- AI does not push you down the ladder no
++ AI does not push you down the ladder, no
+
+#219 00:11:21,833 --> 00:11:25,733
+- but only if you use it and only if you use it properly
++ but only if you use it, and only if you use it properly
+
+#220 00:11:26,266 --> 00:11:32,900
+- I say it again AI does not push you down this ladder no
++ I say it again: AI does not push you down this ladder, no
+
+#226 00:11:51,000 --> 00:11:53,466
+- but in Africa there's something I've not had enough
++ but in Africa there's something I've not heard enough —
+
+#227 00:11:53,900 --> 00:11:56,966
+- that it seldom comes up and what is it
++ that it seldom comes up, and what is it?
+
+#228 00:11:57,400 --> 00:12:02,933
+- AI was primarily trained on western English speaking
++ AI was primarily trained on western, English-speaking,
+
+#229 00:12:03,166 --> 00:12:08,966
+- high income context it does not know a great deal
++ high-income context. It does not know a great deal
+
+#230 00:12:08,966 --> 00:12:11,500
+- about our professional communication works
++ about how our professional communication works
+
+#232 00:12:13,433 --> 00:12:16,666
+- it knows about London knows about New York
++ it knows about London, knows about New York,
+
+#233 00:12:16,833 --> 00:12:18,400
+- New knows about Sydney
++ New York knows about Sydney,
+
+#234 00:12:18,633 --> 00:12:22,766
+- it knows considerably less or does not know much how
++ it knows considerably less, or does not know much how
+
+#235 00:12:22,766 --> 00:12:24,666
+- former correspondence war
++ former correspondence was
+
+#236 00:12:24,666 --> 00:12:28,366
+- between Freetown Angel and the Ministry of education
++ between Freetown Angel and the Ministry of Education
+
+#237 00:12:29,000 --> 00:12:30,766
+- or between Shattered Accountant
++ or between Chartered Accountant
+
+#239 00:12:32,900 --> 00:12:35,733
+- in Sri Lanka AI doesn't know it
++ in Sierra Leone, AI doesn't know it.
+
+#240 00:12:36,366 --> 00:12:41,000
+- AI can tell you top notch information about London
++ AI can tell you top-notch information about London,
+
+#241 00:12:41,000 --> 00:12:42,433
+- about New York about Sydney
++ about New York, about Sydney
+
+#246 00:12:52,466 --> 00:12:55,766
+- who understand the local regulatory landscape
++ who understands the local regulatory landscape
+
+#248 00:13:00,033 --> 00:13:04,600
+- the relationship dynamics between specific institution
++ the relationship dynamics between specific institutions
+
+#252 00:13:17,500 --> 00:13:18,800
+- I repeat it again
++ I repeat
+
+#256 00:13:28,833 --> 00:13:32,500
+- the cultural conventions of formal correspondences
++ the cultural conventions of formal correspondence
+
+#257 00:13:32,500 --> 00:13:35,766
+- your relations between people and institution
++ your relations between people and institutions
+
+#259 00:13:38,166 --> 00:13:43,733
+- you are possess a warm data that no AI model has
++ you possess a warm data that no AI model has
+
+#279 00:14:40,266 --> 00:14:43,800
+- your local knowledge is not a limitation no
++ your local knowledge is not a limitation —no,
+
+#284 00:14:55,766 --> 00:15:01,166
+- but I will engage with it when I have more time
++ but I will engage with it when I have more time —
+
+#285 00:15:02,366 --> 00:15:03,866
+- there's no more time brother
++ there's no more time, brother.
+
+#286 00:15:04,500 --> 00:15:06,066
+- sister there's no more time
++ Sister, there's no more time.
+
+#287 00:15:06,900 --> 00:15:09,000
+- colleagues there's no more time
++ Colleagues, there's no more time.
+
+#288 00:15:09,500 --> 00:15:13,766
+- the window to move from observer to practitioner
++ The window to move from observer to practitioner
+
+#289 00:15:13,766 --> 00:15:17,366
+- is not staying open indefinitely
++ is not staying open indefinitely.
+
+#290 00:15:18,466 --> 00:15:22,166
+- the professionals who build this capacity now
++ The professionals who build this capacity now
+
+#293 00:15:28,833 --> 00:15:31,866
+- not marginally ahead significantly
++ not marginally ahead, significantly
+
+#295 00:15:35,300 --> 00:15:37,300
+- who deliberate make a choice
++ who deliberately make a choice
+
+#298 00:15:45,000 --> 00:15:47,866
+- of those who build it in two years time
++ of those who build it in two years' time
+
+#299 00:15:48,266 --> 00:15:52,500
+- not marginally ahead significantly ahead
++ not marginally ahead, significantly ahead
+
+#306 00:16:10,466 --> 00:16:15,400
+- this course is that step I'm glad you are taking it
++ this course is that step — I'm glad you are taking it
+
+#307 00:16:17,300 --> 00:16:18,400
+- finally brothers
++ finally, brothers
+
+#308 00:16:19,233 --> 00:16:23,333
+- friends cold data is what the machine brings
++ friends, cold data is what the machine brings
+
+#315 00:16:47,466 --> 00:16:52,533
+- the cloud is moving it is now for you to move in
++ the cloud is moving; it is now for you to move in
+

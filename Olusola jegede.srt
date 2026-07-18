@@ -1,0 +1,1260 @@
+1
+00:00:01,600 --> 00:00:04,500
+my name is Olushola Jagede
+
+2
+00:00:05,033 --> 00:00:06,700
+I'm a Chartered Accountant
+
+3
+00:00:07,466 --> 00:00:09,466
+professionally a Chartered Accountant
+
+4
+00:00:09,466 --> 00:00:11,933
+in both Nigeria and in Sierra Leone
+
+5
+00:00:12,433 --> 00:00:15,333
+a fellow of the Institute of Chartered Accountants
+
+6
+00:00:15,866 --> 00:00:17,066
+in Sierra Leone
+
+7
+00:00:17,800 --> 00:00:20,400
+in April 2026
+
+8
+00:00:20,966 --> 00:00:24,933
+I presented to Icasa members in Freetown
+
+9
+00:00:24,966 --> 00:00:29,766
+on the question of what artificial intelligence means
+
+10
+00:00:29,766 --> 00:00:31,566
+for the South African professionals
+
+11
+00:00:31,700 --> 00:00:33,066
+not in theory
+
+12
+00:00:33,666 --> 00:00:37,533
+in practice for the people in that room
+
+13
+00:00:38,066 --> 00:00:44,466
+I want to share the call of that argument with you now
+
+14
+00:00:44,666 --> 00:00:48,966
+because I think it is most important thing
+
+15
+00:00:48,966 --> 00:00:51,300
+any professional in Sierra Leone
+
+16
+00:00:51,300 --> 00:00:56,200
+can undertake about this technology
+
+17
+00:00:57,833 --> 00:00:58,900
+honestly
+
+18
+00:00:59,433 --> 00:01:01,700
+these are part of my observation
+
+19
+00:01:02,066 --> 00:01:04,500
+I made to my colleagues at I Castle
+
+20
+00:01:05,066 --> 00:01:09,333
+and I will make it here without softening it
+
+21
+00:01:10,000 --> 00:01:13,366
+my professional colleagues in Sierra Leone
+
+22
+00:01:13,366 --> 00:01:14,600
+in lot of them
+
+23
+00:01:14,633 --> 00:01:18,366
+are currently using AI as a search engine
+
+24
+00:01:18,366 --> 00:01:21,200
+with a friendlier interface and I claw for them
+
+25
+00:01:22,600 --> 00:01:25,600
+they type a question they read the answer
+
+26
+00:01:25,966 --> 00:01:29,066
+they use it and they do not
+
+27
+00:01:29,233 --> 00:01:30,266
+at times
+
+28
+00:01:30,833 --> 00:01:35,000
+they have not yet understood what it actually is
+
+29
+00:01:35,066 --> 00:01:40,866
+or what it can actually do when it is used properly
+
+30
+00:01:42,433 --> 00:01:45,933
+and the professionals who are not using it at all
+
+31
+00:01:46,500 --> 00:01:48,400
+the ones who have decided
+
+32
+00:01:48,966 --> 00:01:51,366
+it does not apply to their work
+
+33
+00:01:51,600 --> 00:01:54,866
+or that it is passing novelty
+
+34
+00:01:54,966 --> 00:01:58,400
+or that they will engage with it
+
+35
+00:01:58,466 --> 00:02:00,333
+when it becomes more readable
+
+36
+00:02:01,300 --> 00:02:03,533
+these professionals are already behind
+
+37
+00:02:04,166 --> 00:02:11,466
+not a little by a gap that is widening every month
+
+38
+00:02:12,600 --> 00:02:16,133
+I'm not saying this to alarm you no
+
+39
+00:02:16,566 --> 00:02:18,300
+I'm saying it because
+
+40
+00:02:18,300 --> 00:02:21,466
+the same professionals who are currently behind
+
+41
+00:02:21,666 --> 00:02:24,600
+are also the ones who have the most to gain
+
+42
+00:02:25,066 --> 00:02:26,333
+I repeat it again
+
+43
+00:02:26,633 --> 00:02:29,900
+I'm not raising this issue to alarm you
+
+44
+00:02:30,266 --> 00:02:31,600
+I'm saying it because
+
+45
+00:02:31,600 --> 00:02:34,933
+the same professionals who are currently behind
+
+46
+00:02:35,033 --> 00:02:38,166
+are also the ones who have the most to gain
+
+47
+00:02:38,400 --> 00:02:42,266
+because of what you already know
+
+48
+00:02:44,166 --> 00:02:47,133
+to understand what AI actually is
+
+49
+00:02:47,433 --> 00:02:51,500
+I want to introduce a distinction that I think
+
+50
+00:02:51,500 --> 00:02:53,066
+clarifies everything
+
+51
+00:02:54,033 --> 00:02:57,000
+cold data and warm data
+
+52
+00:02:57,633 --> 00:02:58,733
+yes cold
+
+53
+00:02:59,300 --> 00:03:00,066
+and you might be thinking
+
+54
+00:03:00,066 --> 00:03:03,133
+can data be cold or can it be warm
+
+55
+00:03:03,900 --> 00:03:07,833
+sure some data can be very cold and some can be warm
+
+56
+00:03:07,833 --> 00:03:09,133
+so what is cold data
+
+57
+00:03:10,033 --> 00:03:13,266
+cold data is what AI brings
+
+58
+00:03:13,833 --> 00:03:16,666
+it is vast it is fast
+
+59
+00:03:17,033 --> 00:03:22,466
+it is accurate at scale it has read more text
+
+60
+00:03:22,500 --> 00:03:26,800
+than any human being will read in hundred lifetime
+
+61
+00:03:26,800 --> 00:03:27,800
+that's AI
+
+62
+00:03:28,900 --> 00:03:31,866
+what any human being will read a hundred lifetimes
+
+63
+00:03:31,866 --> 00:03:33,566
+AI has read it
+
+64
+00:03:33,566 --> 00:03:37,566
+it can recognize patterns across millions of documents
+
+65
+00:03:38,066 --> 00:03:41,333
+it can produce professional language in seconds
+
+66
+00:03:41,800 --> 00:03:43,666
+it never gets tired
+
+67
+00:03:44,300 --> 00:03:46,966
+it is never in a bad mood
+
+68
+00:03:47,466 --> 00:03:48,966
+it is never distracted
+
+69
+00:03:48,966 --> 00:03:51,200
+by what happened before the meeting
+
+70
+00:03:51,766 --> 00:03:53,133
+but cold data
+
+71
+00:03:53,600 --> 00:03:56,466
+does not know who is reading the documents
+
+72
+00:03:56,966 --> 00:03:57,866
+no
+
+73
+00:03:58,400 --> 00:03:59,200
+vast
+
+74
+00:03:59,766 --> 00:04:00,566
+fast
+
+75
+00:04:01,200 --> 00:04:04,766
+with unlimited knowledge patterns
+
+76
+00:04:05,800 --> 00:04:09,966
+yet cold data does not know what is reading
+
+77
+00:04:09,966 --> 00:04:11,766
+or who is reading document
+
+78
+00:04:12,833 --> 00:04:16,133
+it does not know the history between your organization
+
+79
+00:04:16,266 --> 00:04:18,100
+and the ministry you are writing to
+
+80
+00:04:18,800 --> 00:04:22,633
+it does not know that this particular director respond
+
+81
+00:04:22,633 --> 00:04:26,533
+badly to passive voice and well
+
+82
+00:04:26,666 --> 00:04:27,866
+to direct this
+
+83
+00:04:28,366 --> 00:04:31,400
+it does not know that the regulation is just
+
+84
+00:04:31,400 --> 00:04:34,400
+is just cited was amended six months ago
+
+85
+00:04:34,633 --> 00:04:36,033
+it does not know
+
+86
+00:04:36,033 --> 00:04:39,400
+what is politically sensitive this month
+
+87
+00:04:39,400 --> 00:04:40,766
+in your sector
+
+88
+00:04:41,066 --> 00:04:44,700
+it does not know what your client needs to feel
+
+89
+00:04:44,700 --> 00:04:46,866
+when they finish reading your letter
+
+90
+00:04:46,966 --> 00:04:50,500
+there are several things AI does not know yet
+
+91
+00:04:50,500 --> 00:04:51,400
+very fast
+
+92
+00:04:52,266 --> 00:04:55,366
+have unlimited data unlimited information
+
+93
+00:04:56,033 --> 00:04:59,300
+but that's everything does not know so what is one data
+
+94
+00:05:00,900 --> 00:05:03,700
+and warm data is what you bring
+
+95
+00:05:04,233 --> 00:05:05,500
+that's what you bring
+
+96
+00:05:07,266 --> 00:05:09,466
+cold data is what AI brings
+
+97
+00:05:09,466 --> 00:05:11,500
+but warm data is what you bring
+
+98
+00:05:11,833 --> 00:05:13,533
+now what is warm data
+
+99
+00:05:13,900 --> 00:05:16,200
+warm data is your specific
+
+100
+00:05:16,966 --> 00:05:21,100
+applied knowledge of your field
+
+101
+00:05:21,500 --> 00:05:24,166
+your years of navigating real situations
+
+102
+00:05:24,466 --> 00:05:26,900
+your understanding of the people you work with
+
+103
+00:05:26,900 --> 00:05:28,200
+or you work for
+
+104
+00:05:28,400 --> 00:05:31,366
+your understanding of the institutions they represent
+
+105
+00:05:31,466 --> 00:05:34,666
+your understanding of the value of your institution
+
+106
+00:05:34,666 --> 00:05:37,066
+your understanding of the people
+
+107
+00:05:37,066 --> 00:05:38,933
+and the cultural fluency
+
+108
+00:05:39,366 --> 00:05:42,300
+your professional judgment about what is appropriate
+
+109
+00:05:42,300 --> 00:05:47,300
+in this moment for this particular recipient or client
+
+110
+00:05:48,366 --> 00:05:51,266
+cold data and warm data are not competing
+
+111
+00:05:51,266 --> 00:05:52,966
+no they are not competing
+
+112
+00:05:53,300 --> 00:05:56,166
+they are complementary AI
+
+113
+00:05:56,166 --> 00:05:58,400
+as is most powerful
+
+114
+00:05:58,500 --> 00:06:01,766
+is cold data multiplied by warm data
+
+115
+00:06:02,000 --> 00:06:04,100
+you want to have the best of AI
+
+116
+00:06:04,100 --> 00:06:06,866
+it is a combination of cold data
+
+117
+00:06:07,033 --> 00:06:12,333
+multiplied by warm data the warmer the data you bring
+
+118
+00:06:12,500 --> 00:06:15,933
+the more specific the more experience
+
+119
+00:06:16,000 --> 00:06:17,800
+the more professional deep
+
+120
+00:06:17,900 --> 00:06:20,200
+the better the Output
+
+121
+00:06:21,300 --> 00:06:24,633
+Friends AI does not replace you
+
+122
+00:06:24,633 --> 00:06:26,166
+it multiplies you
+
+123
+00:06:27,000 --> 00:06:28,866
+yes I'm saying it again
+
+124
+00:06:28,900 --> 00:06:34,466
+AI does not replace you it multiplies you
+
+125
+00:06:35,400 --> 00:06:38,933
+at I Castle during the meeting that I facilitated
+
+126
+00:06:39,033 --> 00:06:42,900
+I described five stages of professional evolution
+
+127
+00:06:43,000 --> 00:06:44,700
+in the age of AI
+
+128
+00:06:45,433 --> 00:06:48,533
+let me quickly walk you through them quickly
+
+129
+00:06:48,766 --> 00:06:52,200
+because I want you to know where you are standing
+
+130
+00:06:52,200 --> 00:06:54,066
+right now maybe stage one
+
+131
+00:06:54,566 --> 00:06:56,933
+stage two stage three
+
+132
+00:06:57,166 --> 00:06:59,100
+stage four stage five
+
+133
+00:07:00,400 --> 00:07:04,000
+in the stage one that's what I call the Record keeper
+
+134
+00:07:05,166 --> 00:07:06,500
+at this level
+
+135
+00:07:06,633 --> 00:07:10,066
+the professional processes and stores information
+
+136
+00:07:10,833 --> 00:07:14,200
+produces documentation as a function of role
+
+137
+00:07:15,200 --> 00:07:17,400
+has not yet recognized
+
+138
+00:07:17,400 --> 00:07:20,166
+the strategic value of the information they handle
+
+139
+00:07:20,166 --> 00:07:22,166
+is just about keeping records
+
+140
+00:07:22,966 --> 00:07:24,900
+oh stage two is a bit better
+
+141
+00:07:25,300 --> 00:07:27,200
+it's an improvement on stage one
+
+142
+00:07:27,500 --> 00:07:28,900
+the analyzer
+
+143
+00:07:29,700 --> 00:07:32,700
+they interpret and crystallize data
+
+144
+00:07:33,633 --> 00:07:35,800
+begins to see patterns
+
+145
+00:07:36,166 --> 00:07:39,066
+can even explain what the information means
+
+146
+00:07:39,100 --> 00:07:41,366
+not just what it says
+
+147
+00:07:42,233 --> 00:07:44,100
+there's an improvement on C2
+
+148
+00:07:44,666 --> 00:07:46,066
+which is strategist
+
+149
+00:07:46,866 --> 00:07:49,000
+they use professional knowledge
+
+150
+00:07:49,000 --> 00:07:51,400
+to anticipate consequences
+
+151
+00:07:52,033 --> 00:07:54,233
+advice rather than report
+
+152
+00:07:54,233 --> 00:07:55,166
+it's not just about report
+
+153
+00:07:55,166 --> 00:07:58,200
+they use to advice the information they produce
+
+154
+00:07:58,200 --> 00:07:59,400
+shape decision
+
+155
+00:08:00,200 --> 00:08:03,300
+the strategies but be after strategies
+
+156
+00:08:03,300 --> 00:08:04,800
+we have the integrator
+
+157
+00:08:05,433 --> 00:08:09,066
+the integrator connects knowledge across the means
+
+158
+00:08:10,100 --> 00:08:12,866
+sees relationship between fields
+
+159
+00:08:13,233 --> 00:08:16,733
+produce synthesis that neither AI
+
+160
+00:08:16,966 --> 00:08:20,900
+no junior professional will produce alone
+
+161
+00:08:21,000 --> 00:08:22,633
+AI alone cannot produce it
+
+162
+00:08:22,633 --> 00:08:24,233
+a junior professional cannot cannot
+
+163
+00:08:24,233 --> 00:08:27,166
+cannot produce it because this integrator
+
+164
+00:08:27,166 --> 00:08:29,733
+they connect knowledge across the means
+
+165
+00:08:30,433 --> 00:08:34,200
+since relationship between feels and produce synthesis
+
+166
+00:08:34,466 --> 00:08:37,333
+like I said that neither AI
+
+167
+00:08:37,366 --> 00:08:38,666
+nor a general professional
+
+168
+00:08:38,666 --> 00:08:42,666
+could produce the Baba of all of them
+
+169
+00:08:42,800 --> 00:08:46,400
+that's the five that the architect of valor
+
+170
+00:08:46,966 --> 00:08:48,433
+yeah why I say architect of values
+
+171
+00:08:48,433 --> 00:08:50,500
+yes architect of values
+
+172
+00:08:50,766 --> 00:08:52,366
+the design system
+
+173
+00:08:53,433 --> 00:08:56,400
+design frameworks and approaches
+
+174
+00:08:56,400 --> 00:09:00,600
+that create durable institutional capacity
+
+175
+00:09:01,066 --> 00:09:03,333
+this is what they do that's what they do
+
+176
+00:09:03,400 --> 00:09:06,933
+they design systems they design frameworks
+
+177
+00:09:07,400 --> 00:09:08,700
+the design approaches
+
+178
+00:09:08,700 --> 00:09:12,533
+that create durable institutional capacity
+
+179
+00:09:12,766 --> 00:09:15,600
+their professional knowledge produces value
+
+180
+00:09:16,033 --> 00:09:19,066
+that outlast their individual presence
+
+181
+00:09:19,066 --> 00:09:20,666
+even when they are not there
+
+182
+00:09:20,666 --> 00:09:23,800
+what they produce actually outlast them
+
+183
+00:09:24,400 --> 00:09:28,700
+here is what AI changes about this ladder
+
+184
+00:09:30,500 --> 00:09:34,200
+like I said I mentioned five stages
+
+185
+00:09:34,200 --> 00:09:36,700
+I say stage 1 the Record Keeper
+
+186
+00:09:37,233 --> 00:09:39,400
+stage 2 the Analyser
+
+187
+00:09:39,633 --> 00:09:41,600
+stage 3 the strategist
+
+188
+00:09:41,800 --> 00:09:43,933
+stage 4 the Integrator
+
+189
+00:09:44,233 --> 00:09:45,466
+Stage stage 5
+
+190
+00:09:45,466 --> 00:09:47,400
+the architect of values
+
+191
+00:09:48,100 --> 00:09:50,466
+this is where you should be working towards
+
+192
+00:09:50,466 --> 00:09:54,066
+where you design system you design framework
+
+193
+00:09:54,200 --> 00:09:56,000
+you design approaches
+
+194
+00:09:56,000 --> 00:09:58,733
+that create durable institutional capacity
+
+195
+00:09:59,466 --> 00:10:02,833
+your professional knowledge produces value
+
+196
+00:10:02,833 --> 00:10:05,866
+that outlasts your individual presence
+
+197
+00:10:06,100 --> 00:10:09,800
+and here is what AI changes about this ladder
+
+198
+00:10:10,400 --> 00:10:12,666
+the professionals at stage 1 and two
+
+199
+00:10:12,866 --> 00:10:15,500
+that the record keeper and the analyzer
+
+200
+00:10:15,666 --> 00:10:18,200
+are most at risk of displacement
+
+201
+00:10:19,166 --> 00:10:22,500
+not because AI will take their jobs no
+
+202
+00:10:22,633 --> 00:10:25,100
+but because the value of record keeping
+
+203
+00:10:25,100 --> 00:10:28,766
+and basic analysis drops sharply
+
+204
+00:10:29,200 --> 00:10:32,800
+when AI can do it faster and cheaper
+
+205
+00:10:33,633 --> 00:10:35,766
+AI is not the one displacing you no
+
+206
+00:10:35,900 --> 00:10:38,466
+but AI is not taking your job also no
+
+207
+00:10:38,666 --> 00:10:42,533
+but the value of your record keeping and basic analysis
+
+208
+00:10:42,566 --> 00:10:44,400
+AI can do it faster
+
+209
+00:10:44,800 --> 00:10:47,500
+AI can do it cheaper
+
+210
+00:10:48,466 --> 00:10:52,000
+the professionals at Stage 3 and Stage 4 and stage 5
+
+211
+00:10:52,366 --> 00:10:56,966
+become dramatically more valuable if they engage AI
+
+212
+00:10:57,366 --> 00:10:58,833
+because they are using AI
+
+213
+00:10:58,833 --> 00:11:03,166
+to produce more of what only they can produce
+
+214
+00:11:04,466 --> 00:11:06,500
+more of what only they can produce
+
+215
+00:11:06,566 --> 00:11:09,100
+there's judgement there's synthesis
+
+216
+00:11:09,166 --> 00:11:12,466
+there's strategy and there's institutional wisdom
+
+217
+00:11:13,566 --> 00:11:17,466
+AI does not push you down the ladder no
+
+218
+00:11:18,100 --> 00:11:21,366
+it accelerates your climb up
+
+219
+00:11:21,833 --> 00:11:25,733
+but only if you use it and only if you use it properly
+
+220
+00:11:26,266 --> 00:11:32,900
+I say it again AI does not push you down this ladder no
+
+221
+00:11:33,000 --> 00:11:35,766
+it accelerates your climb up
+
+222
+00:11:36,433 --> 00:11:41,700
+but only if you use it and only if you use it properly
+
+223
+00:11:42,300 --> 00:11:45,566
+I want to say something that I do not hear said enough
+
+224
+00:11:45,566 --> 00:11:49,166
+in conversation about AI in Africa
+
+225
+00:11:49,466 --> 00:11:51,000
+a number of people talk about AI
+
+226
+00:11:51,000 --> 00:11:53,466
+but in Africa there's something I've not had enough
+
+227
+00:11:53,900 --> 00:11:56,966
+that it seldom comes up and what is it
+
+228
+00:11:57,400 --> 00:12:02,933
+AI was primarily trained on western English speaking
+
+229
+00:12:03,166 --> 00:12:08,966
+high income context it does not know a great deal
+
+230
+00:12:08,966 --> 00:12:11,500
+about our professional communication works
+
+231
+00:12:11,766 --> 00:12:12,733
+in Sierra Leone
+
+232
+00:12:13,433 --> 00:12:16,666
+it knows about London knows about New York
+
+233
+00:12:16,833 --> 00:12:18,400
+New knows about Sydney
+
+234
+00:12:18,633 --> 00:12:22,766
+it knows considerably less or does not know much how
+
+235
+00:12:22,766 --> 00:12:24,666
+former correspondence war
+
+236
+00:12:24,666 --> 00:12:28,366
+between Freetown Angel and the Ministry of education
+
+237
+00:12:29,000 --> 00:12:30,766
+or between Shattered Accountant
+
+238
+00:12:30,766 --> 00:12:32,900
+and the National Revenue Authority
+
+239
+00:12:32,900 --> 00:12:35,733
+in Sri Lanka AI doesn't know it
+
+240
+00:12:36,366 --> 00:12:41,000
+AI can tell you top notch information about London
+
+241
+00:12:41,000 --> 00:12:42,433
+about New York about Sydney
+
+242
+00:12:42,433 --> 00:12:44,033
+but several things you may not
+
+243
+00:12:44,033 --> 00:12:48,200
+know about the internal policies in Sierra Leone
+
+244
+00:12:49,200 --> 00:12:50,100
+it doesn't
+
+245
+00:12:50,766 --> 00:12:52,466
+the professional in Sierra Leone
+
+246
+00:12:52,466 --> 00:12:55,766
+who understand the local regulatory landscape
+
+247
+00:12:56,233 --> 00:12:59,700
+the cultural conventions of formal correspondence
+
+248
+00:13:00,033 --> 00:13:04,600
+the relationship dynamics between specific institution
+
+249
+00:13:04,900 --> 00:13:09,633
+the language that lands well with a particular ministry
+
+250
+00:13:09,633 --> 00:13:11,733
+and the language that does not
+
+251
+00:13:12,100 --> 00:13:17,366
+that professional has one data that no AI model has
+
+252
+00:13:17,500 --> 00:13:18,800
+I repeat it again
+
+253
+00:13:19,100 --> 00:13:21,733
+irrespective of the AI model you are using
+
+254
+00:13:21,833 --> 00:13:24,933
+because you are a professional based in Freetown
+
+255
+00:13:25,200 --> 00:13:28,733
+you understand the local regulatory landscape
+
+256
+00:13:28,833 --> 00:13:32,500
+the cultural conventions of formal correspondences
+
+257
+00:13:32,500 --> 00:13:35,766
+your relations between people and institution
+
+258
+00:13:35,833 --> 00:13:37,466
+the language of the land
+
+259
+00:13:38,166 --> 00:13:43,733
+you are possess a warm data that no AI model has
+
+260
+00:13:44,600 --> 00:13:45,900
+when that professional
+
+261
+00:13:45,900 --> 00:13:49,366
+lose their local knowledge into AI
+
+262
+00:13:50,000 --> 00:13:51,533
+maybe you are the professional
+
+263
+00:13:51,600 --> 00:13:55,300
+maybe when you lose that's your local knowledge into AI
+
+264
+00:13:55,766 --> 00:13:58,366
+the output is dramatically better
+
+265
+00:13:58,633 --> 00:14:01,466
+than anything a generic user
+
+266
+00:14:01,466 --> 00:14:03,500
+in another part of the world
+
+267
+00:14:03,500 --> 00:14:04,600
+would produce
+
+268
+00:14:04,866 --> 00:14:08,066
+with the same tool and the same free asset
+
+269
+00:14:09,233 --> 00:14:11,900
+a professional who is based either in New York
+
+270
+00:14:11,900 --> 00:14:15,133
+in Australia in any part of the world
+
+271
+00:14:15,266 --> 00:14:17,266
+with the same tool of AI
+
+272
+00:14:17,266 --> 00:14:20,500
+who does not have the local knowledge of Sierra Leone
+
+273
+00:14:21,033 --> 00:14:24,833
+cannot match you when you combine your knowledge
+
+274
+00:14:24,833 --> 00:14:27,466
+of the local environment with the tool
+
+275
+00:14:27,700 --> 00:14:29,933
+your local knowledge is not a limitation
+
+276
+00:14:31,066 --> 00:14:32,733
+in the age of AI
+
+277
+00:14:32,800 --> 00:14:36,900
+it is your most powerful professional asset
+
+278
+00:14:38,100 --> 00:14:40,100
+in the age of AI
+
+279
+00:14:40,266 --> 00:14:43,800
+your local knowledge is not a limitation no
+
+280
+00:14:44,033 --> 00:14:47,166
+it is your most powerful professional asset
+
+281
+00:14:48,500 --> 00:14:51,100
+I want to speak directly to the professional
+
+282
+00:14:51,100 --> 00:14:53,733
+who is watching this and thinking
+
+283
+00:14:54,000 --> 00:14:55,366
+this is interesting
+
+284
+00:14:55,766 --> 00:15:01,166
+but I will engage with it when I have more time
+
+285
+00:15:02,366 --> 00:15:03,866
+there's no more time brother
+
+286
+00:15:04,500 --> 00:15:06,066
+sister there's no more time
+
+287
+00:15:06,900 --> 00:15:09,000
+colleagues there's no more time
+
+288
+00:15:09,500 --> 00:15:13,766
+the window to move from observer to practitioner
+
+289
+00:15:13,766 --> 00:15:17,366
+is not staying open indefinitely
+
+290
+00:15:18,466 --> 00:15:22,166
+the professionals who build this capacity now
+
+291
+00:15:22,266 --> 00:15:24,700
+will be significantly ahead
+
+292
+00:15:24,700 --> 00:15:27,500
+of those who build it in two years
+
+293
+00:15:28,833 --> 00:15:31,866
+not marginally ahead significantly
+
+294
+00:15:32,633 --> 00:15:35,266
+the professionals who chose
+
+295
+00:15:35,300 --> 00:15:37,300
+who deliberate make a choice
+
+296
+00:15:37,500 --> 00:15:42,300
+to build their capacity in the use of AI now
+
+297
+00:15:42,366 --> 00:15:44,966
+will be significantly ahead
+
+298
+00:15:45,000 --> 00:15:47,866
+of those who build it in two years time
+
+299
+00:15:48,266 --> 00:15:52,500
+not marginally ahead significantly ahead
+
+300
+00:15:53,000 --> 00:15:55,600
+and the cost of engaging is low
+
+301
+00:15:56,166 --> 00:15:57,466
+the tools are free
+
+302
+00:15:57,766 --> 00:16:00,600
+the knowledge required is what you already have
+
+303
+00:16:00,600 --> 00:16:02,000
+that's your local knowledge
+
+304
+00:16:02,066 --> 00:16:04,366
+the only thing that needs to change
+
+305
+00:16:04,400 --> 00:16:09,533
+is the decision to take the first professional step
+
+306
+00:16:10,466 --> 00:16:15,400
+this course is that step I'm glad you are taking it
+
+307
+00:16:17,300 --> 00:16:18,400
+finally brothers
+
+308
+00:16:19,233 --> 00:16:23,333
+friends cold data is what the machine brings
+
+309
+00:16:24,633 --> 00:16:27,533
+warm data is what you bring
+
+310
+00:16:27,833 --> 00:16:31,966
+the combination of cold data and warm data
+
+311
+00:16:32,033 --> 00:16:36,700
+produce something neither could produce alone
+
+312
+00:16:36,966 --> 00:16:40,700
+and it makes you better than any professional
+
+313
+00:16:40,766 --> 00:16:43,066
+out of your local environment
+
+314
+00:16:43,066 --> 00:16:46,200
+who have access to the same tool of AI
+
+315
+00:16:47,466 --> 00:16:52,533
+the cloud is moving it is now for you to move in
+
